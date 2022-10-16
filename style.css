@@ -1,0 +1,32 @@
+* {
+  text-align: center;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.form input[type="number"] {
+  width: 200px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+.main-container {
+  background-color: rgb(251, 67, 67);
+  border-radius: 10px;
+}
+
+h1 {
+  color: bisque;
+}
